@@ -12,6 +12,7 @@ function initAutocomplete() {
       lat: 41.841974,
       lng: -88.0731221
     },
+    // enter for search radius - 15 is about a mile 
     zoom: 15,
   });
 
