@@ -4,7 +4,7 @@
 
 // This example requires the Places library. Include the libraries=places
 // parameter when you first load the API. For example:
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh-ozwpKfg0IovC7Ng22yx3W8sEfMcEM8&libraries=places">
+//<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh-ozwpKfg0IovC7Ng22yx3W8sEfMcEM8&libraries=places">
 
 function initAutocomplete() {
   var map = new google.maps.Map(document.getElementById('map'), {
