@@ -52,15 +52,10 @@ body {
 }
 
 #pac-input {
-  background-color: #fff;
-  font-size: 20px;
-  font-weight: 300;
-  margin-top: 20px;
-  margin-left: 12px;
-  padding: 5px;
-  text-overflow: ellipsis;
-  width: 400px;
-      }
+     margin-top: 15px;
+     padding: 5px;
+     font-size: 20px;
+		  width: 400px;
 }
 
 #pac-input:focus {
