@@ -2,6 +2,7 @@
 // feature. People can enter geographical searches. The search box will return a
 // pick list containing a mix of places and predicted search terms.
 
+// automatically centers the map at College of Dupage
 function initAutocomplete() {
   var map = new google.maps.Map(document.getElementById('map'), {
     center: {
