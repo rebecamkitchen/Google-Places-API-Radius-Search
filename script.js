@@ -8,7 +8,8 @@ function initAutocomplete() {
       lat: 41.841974,
       lng: -88.0731221
     },
-    // enter for search radius - 15 is about a mile 
+    // enter for search radius 
+    // 16 = 1/4 mile, 15 = 1/2 mile, 14 = 1 mile, 13 = 2 miles, 12 = 4 miles, 11 = 8 miles
     zoom: 15,
   });
 
